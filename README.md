@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm an EPFL student🇨🇭 
-• Bachelor in Chemistry 🧪
-• ✉️ : nina.deruaz@epfl.ch
+• Bachelor in Chemistry 🧪 <br>
+• ✉️ : nina.deruaz@epfl.ch <br> 
 
 <!--
 **ninaderuaz/ninaderuaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
